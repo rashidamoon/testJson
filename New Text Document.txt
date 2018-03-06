@@ -1,0 +1,16 @@
+[
+    {
+        "esistenzaConto": "1",
+        "statoConto": "20",
+        "divisaConto": "EUR",
+        "richiestaChiusura": "N",
+        "presenzaBlocchi": "N"
+    },
+    {
+        "esistenzaConto": "2",
+        "statoConto": "30",
+        "divisaConto": "EUR",
+        "richiestaChiusura": "N",
+        "presenzaBlocchi": "N"
+    }
+]
